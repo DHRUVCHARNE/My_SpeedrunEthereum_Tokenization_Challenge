@@ -12,7 +12,7 @@ This project demonstrates a complete **ERC-721 NFT Tokenization flow** — from 
 
 ## 🔗 Live Links
 
-- 💻 **Frontend (Vercel):** [mynftmine.vercel.app](https://mynftmine-f2l57zcv7-dhruv4nes-projects.vercel.app/)
+- 💻 **Frontend (Vercel):** [mynftmine.vercel.app](https://mynftmine.vercel.app/)
 - 📜 **Smart Contract (Sepolia):** [0xE8bDEe246299B2D75ac4c209b03460840Aa738bc](https://sepolia.etherscan.io/address/0xE8bDEe246299B2D75ac4c209b03460840Aa738bc)
 - 👤 **Builder Profile:** [Dhruv Charne — Speedrun Ethereum](https://speedrunethereum.com/builders/0x337c6Cc82221266B951f773E1AbD81eA0354ff25)
 
